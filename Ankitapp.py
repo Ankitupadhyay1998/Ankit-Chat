@@ -2,7 +2,7 @@ import streamlit as st
 from groq import Groq
 
 # Initialize Groq client
-client = Groq(api_key="MyKey")
+client = Groq(api_key="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")
 
 # Streamlit UI
 st.set_page_config(page_title="Interactive LLM Chat", page_icon="💬")
